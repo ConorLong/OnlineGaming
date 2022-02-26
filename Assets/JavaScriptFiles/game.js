@@ -1,6 +1,6 @@
 
 
-function App() {
+function Game() {
   return (
       <div className="Game">
           <h1> Home </h1>
@@ -8,4 +8,4 @@ function App() {
   );
 }
 
-export default App;
+export default Game;
